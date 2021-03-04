@@ -1,3 +1,6 @@
+# Kettlebell Sport
+![Kettlbell Sport](https://www.niagarakettlebellsportopen.com/uploads/1/3/7/9/13797016/denis2_orig.jpg)
+
 # Introduction
 Kettlebell Sport information is difficult to find on the internet, or limited in depth,scope,etc. This is my attempt to collect what I find.
 
