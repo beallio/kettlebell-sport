@@ -1,18 +1,18 @@
-## Introduction
+# Introduction
 Kettlebell Sport information is difficult to find on the internet, or limited in depth,scope,etc. This is my attempt to collect what I find.
 
-### What is Kettlebell Sport?
+## What is Kettlebell Sport?
 [What is Kettlebell Sport? An Intro.](https://www.youtube.com/watch?v=te3efrre6sg)
 
 This is not Hardstyle (Pavel-influended) Kettlbell lifting.  Kettlebell Sport is endurance kettlebell lifting where lifters have 10 minutes (or 5 minutes in sprint sets) to complete as many reps as possible without setting the bells down.  Efficiency and technique are important to maintain energy throughout set.  
 
-Standard lifts include:
+### Lifts
 - Two Arm **Long Cycle** - TALC - 2 Kettlebell Clean and Jerk
 - One Arm **Long Cycle** - OALC - 1 Kettlebell Clean and Jerk
 - Snatch - 1 Kettlebell Snatch
 - Jerk -  2 Kettlebell Jerk
 
-
+# Equipment
 ## Competition Kettlebells
  - [Kettlebell USA Paradigm Pro](https://www.kettlebellsusa.com/) - US - 35mm and 33mm available
  - [Kettlebell Kings Competition](https://www.kettlebellsusa.com/) - US - 35mm and 33mm available
@@ -38,7 +38,8 @@ Standard lifts include:
 - [Magnesium Carbonate Chalk](https://www.amazon.com/gp/product/B00L5HZD40) - Standard gymnastics/weightlifting chalk. See **Kettlebell Prep**.
 - [Emery Cloth](https://www.amazon.com/gp/product/B000FP8HUU) - Used for sanding bell handles. See **Kettlebell Prep**. 
 
-## Education
+# Education
+## Videos
 - [Denis Vasilev](https://www.denisvasilevkettlebell.com/self-education) - Denis Vasilev's (MSIC, WR holder) site which includes video tutorials of:
    - Long Cycle
    - Jerk
