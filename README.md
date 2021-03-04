@@ -1,5 +1,3 @@
-# Kettlebell (Girevoy) Sport resources
-
 ## Introduction
 Kettlebell Sport information is difficult to find on the internet, or limited in depth,scope,etc. This is my attempt to collect what I find.
 
