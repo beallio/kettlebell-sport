@@ -1,8 +1,10 @@
-# kettlebell-sport
-Kettlebell (Girevoy) Sport resources
+# Kettlebell (Girevoy) Sport resources
 
 ## Introduction
-Kettlebell Sport information is difficult to find on the internet, or limited in depth,scope,etc.
+Kettlebell Sport information is difficult to find on the internet, or limited in depth,scope,etc. This is my attempt to collect what I find.
+
+### What is Kettlebell Sport?
+[What is Kettlebell Sport? An Intro.](https://www.youtube.com/watch?v=te3efrre6sg)
 
 ## Competition Kettlebells
  - [Kettlebell USA Paradigm Pro](https://www.kettlebellsusa.com/) - US - 35mm and 33mm available
@@ -12,5 +14,27 @@ Kettlebell Sport information is difficult to find on the internet, or limited in
  - [Vulcan Strength](https://www.vulcanstrength.com/Vulcan-Absolute-Competition-Kettlebells-p/vckbxx.htm) - US 
  - [Rage Fitness](https://www.ragefitness.com/products/competition-kettlebells-original) - US 
  - [Titan Fitness](https://www.titan.fitness/endurance/kettlebells/competition-2/8---40-kg-competition-style-kettlebells/KBCOMP_GROUP.html) - US 
- - [Ader](https://aderfitness.com/product/pro-grade-kettlebells/) - US 
+ - [Ader](https://aderfitness.com/product/pro-grade-kettlebells/) - US
+ - [Treadmill Factory](https://www.treadmillfactory.ca/kettlebell/competition-kettlebells) - CA
+ - [Bells of Steel](https://www.bellsofsteel.com/product/kettlebells/) - CA
+ - [Agatsu](https://agatsu-store.myshopify.com/collections/agatsu-sport-series-kettlebells) - CA
  - [Wolverson Fitness](https://wolverson-fitness.co.uk/collections/competition-kettlebells) - UK
+
+## Accessories
+
+### Belts
+- [32kg.pro](https://www.32kg.pro/online-store/KETTLEBELL-SPORT-PRO-BELTS-c11357019)
+- [Bellevator](https://www.denisvasilevkettlebell.com/bellevator-lifting-belts)
+
+### Miscellaneous
+- [TrueGrit Kettleweights](https://www.truegritkettlebell.com/shop/) - 1KG and 2KG magnetic plates you attach to base of Kettlebell.  Allows you to adjust weight in smaller increments than traditional 4KG jumps between bells.
+- [Magnesium Carbonate Chalk](https://www.amazon.com/gp/product/B00L5HZD40) - Standard gymnastics/weightlifting chalk. See **Kettlebell Prep**.
+- [Emery Cloth](https://www.amazon.com/gp/product/B000FP8HUU) - Used for sanding bell handles. See **Kettlebell Prep**. 
+
+## Education
+- [Denis Vasilev](https://www.denisvasilevkettlebell.com/self-education) - Denis Vasilev's (MSIC, WR holder) site which includes video tutorials of:
+   - Long Cycle
+   - Jerk
+   - Snatch
+   - Programming
+- [Brittany van Schravendijk](https://www.youtube.com/playlist?list=PLhogybcqSAOQO3o0XJhYugcaNkQxOC8Pv) - 
