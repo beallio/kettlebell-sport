@@ -5,7 +5,6 @@
 Kettlebell Sport information is difficult to find on the internet, or limited in depth,scope,etc. This is my attempt to collect what I find.
 
 ## What is Kettlebell Sport?
-[What is Kettlebell Sport? An Intro.](https://www.youtube.com/watch?v=te3efrre6sg)
 
 This is not Hardstyle (Pavel-influended) Kettlbell lifting.  Kettlebell Sport is endurance kettlebell lifting where lifters have 10 minutes (or 5 minutes in sprint sets) to complete as many reps as possible without setting the bells down.  Efficiency and technique are important to maintain energy throughout set.  
 
@@ -14,6 +13,11 @@ This is not Hardstyle (Pavel-influended) Kettlbell lifting.  Kettlebell Sport is
 - One Arm **Long Cycle** - OALC - 1 Kettlebell Clean and Jerk
 - Snatch - 1 Kettlebell Snatch
 - Jerk -  2 Kettlebell Jerk
+
+### Links
+ - [What is Kettlebell Sport? An Intro.](https://www.youtube.com/watch?v=te3efrre6sg)
+ - [The Science and Bullshit of Lifting (III) – Kettlebells](https://theolderavocado.com/the-science-and-bullshit-of-lifting-part-iii-kettlebells/) / [archive.is](https://archive.is/F8Q0w) / [archive.org](https://web.archive.org/web/20210308074733/https://theolderavocado.com/the-science-and-bullshit-of-lifting-part-iii-kettlebells/)
+ - [WTF is Kettlebell Sport? Twin Cities KBC](https://www.twincitieskettlebellclub.com/wtf-is-kettlebell-sport) / [archive.is](https://archive.is/hNnJ1) / [archive.org](https://web.archive.org/web/20210318184840/https://www.twincitieskettlebellclub.com/wtf-is-kettlebell-sport)
 
 # Equipment
 ## Competition Kettlebells
@@ -33,7 +37,8 @@ This is not Hardstyle (Pavel-influended) Kettlbell lifting.  Kettlebell Sport is
 ## Accessories
 
 ### Belts
-- [32kg.pro](https://www.32kg.pro/online-store/KETTLEBELL-SPORT-PRO-BELTS-c11357019)
+- [Lab of Champions](https://www.32kg.pro/online-store/KETTLEBELL-SPORT-PRO-BELTS-c11357019)
+    - [Kettlebell Kings](https://www.kettlebellkings.com/kettlebell-belts/) - Basic Lab of Champion belts available.
 - [Bellevator](https://www.denisvasilevkettlebell.com/bellevator-lifting-belts)
 
 ### Miscellaneous
@@ -49,3 +54,9 @@ This is not Hardstyle (Pavel-influended) Kettlbell lifting.  Kettlebell Sport is
    - Snatch
    - Programming
 - [Brittany van Schravendijk](https://www.youtube.com/playlist?list=PLhogybcqSAOQO3o0XJhYugcaNkQxOC8Pv) - 
+
+
+# Programming
+- [Thierry Sanchez, Time Ladders Program](https://www.ohne-kettlebells.gehts-gar.net/030/8weeklc.pdf) / [archive.is](https://archive.is/kvVnd) / [archive.org](https://web.archive.org/web/20210306065544/https://www.ohne-kettlebells.gehts-gar.net/030/8weeklc.pdf)
+- [Chris Doenlen 4 week Long Cycle Program, Breaking Muscle](https://breakingmuscle.com/workouts/kettlebell-sport-training-with-national-champion-chris-doenlen) / [archive.is](https://archive.is/CVzy9) / [archive.org](https://web.archive.org/web/20201202071850/https://breakingmuscle.com/workouts/kettlebell-sport-training-with-national-champion-chris-doenlen)
+    - [Program](https://breakingmuscle.com/downloads/4weeklongcycletrainingtemplate.xlsx) / [archive.org](https://web.archive.org/web/20210318185303/https://assets.omidoo.com/sites/default/files/downloads/4weeklongcycletrainingtemplate.xlsx)
