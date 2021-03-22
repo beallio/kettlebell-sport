@@ -34,6 +34,9 @@ This is not Hardstyle (Pavel-influended) Kettlbell lifting.  Kettlebell Sport is
  - [Agatsu](https://agatsu-store.myshopify.com/collections/agatsu-sport-series-kettlebells) - CA
  - [Wolverson Fitness](https://wolverson-fitness.co.uk/collections/competition-kettlebells) - UK
 
+## Youth Competition Kettlebells
+- [USA Youth Kettlebell Sport](https://www.usaykbs.org/) - US - Youth sizes from 2KG to 12KG
+
 ## Accessories
 
 ### Belts
