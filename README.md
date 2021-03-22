@@ -50,13 +50,13 @@ This is not Hardstyle (Pavel-influended) Kettlbell lifting.  Kettlebell Sport is
 - [Emery Cloth](https://www.amazon.com/gp/product/B000FP8HUU) - Used for sanding bell handles. See **Kettlebell Prep**. 
 
 # Education
-## Videos
-- [Denis Vasilev](https://www.denisvasilevkettlebell.com/self-education) - Denis Vasilev's (MSIC, WR holder) site which includes video tutorials of:
-   - Long Cycle
-   - Jerk
-   - Snatch
-   - Programming
-- [Brittany van Schravendijk](https://www.youtube.com/playlist?list=PLhogybcqSAOQO3o0XJhYugcaNkQxOC8Pv) - 
+## Sport Technique Videos
+- [Denis Vasilev](https://www.denisvasilevkettlebell.com/self-education) - Denis Vasilev's (MSIC, WR holder) site which includes video tutorials of Long Cycle, Jerk, Snatch, and programming
+- [Brittany van Schravendijk](https://www.youtube.com/playlist?list=PLhogybcqSAOQO3o0XJhYugcaNkQxOC8Pv)
+
+## Kettlebell handle preparation
+- [Kettlebell handle preparation](https://youtube.com/playlist?list=PLnGVnecBozBO9l7Zeq4kqc0tP6KQ8Nr1-) - Curated Youtube playlist of various athletes providing a walk-through tutorial of their kettlebell handle prepartion methods.
+
 
 
 # Programming
