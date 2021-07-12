@@ -46,7 +46,7 @@ This is not Hardstyle (Pavel-influended) Kettlbell lifting.  Kettlebell Sport is
 
 ### Miscellaneous
 - [TrueGrit Kettleweights](https://www.truegritkettlebell.com/shop/) - 1KG and 2KG magnetic plates you attach to base of Kettlebell.  Allows you to adjust weight in smaller increments than traditional 4KG jumps between bells.
-- [Magnesium Carbonate Chalk](https://www.amazon.com/gp/product/B00L5HZD40) - Standard gymnastics/weightlifting chalk. See **Kettlebell Prep**.
+- [Vikn Chalk](https://viknperformance.com/) - High-grade gymnastics/weightlifting chalk. Don't cheap out here. See **Kettlebell Prep**.
 - [Emery Cloth](https://www.amazon.com/gp/product/B000FP8HUU) - Used for sanding bell handles. See **Kettlebell Prep**. 
 
 # Education
