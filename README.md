@@ -18,6 +18,7 @@ This is not Hardstyle (Pavel-influended) Kettlbell lifting.  Kettlebell Sport is
  - [What is Kettlebell Sport? An Intro.](https://www.youtube.com/watch?v=te3efrre6sg)
  - [The Science and Bullshit of Lifting (III) – Kettlebells](https://theolderavocado.com/the-science-and-bullshit-of-lifting-part-iii-kettlebells/) / [archive.is](https://archive.is/F8Q0w) / [archive.org](https://web.archive.org/web/20210308074733/https://theolderavocado.com/the-science-and-bullshit-of-lifting-part-iii-kettlebells/)
  - [WTF is Kettlebell Sport? Twin Cities KBC](https://www.twincitieskettlebellclub.com/wtf-is-kettlebell-sport) / [archive.is](https://archive.is/hNnJ1) / [archive.org](https://web.archive.org/web/20210318184840/https://www.twincitieskettlebellclub.com/wtf-is-kettlebell-sport)
+ - [Girevoy Sport Australia](https://taskettlebellers.tripod.com/girevoysportaustralia/index.html)
 
 # Equipment
 ## Competition Kettlebells
