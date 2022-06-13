@@ -9,10 +9,10 @@ Kettlebell Sport information is difficult to find on the internet, or limited in
 This is not Hardstyle (Pavel-influended) Kettlbell lifting.  Kettlebell Sport is endurance kettlebell lifting where lifters have 10 minutes (or 5 minutes in sprint sets) to complete as many reps as possible without setting the bells down.  Efficiency and technique are important to maintain energy throughout set.  
 
 ### Lifts
-- Long Cycle - Clean and Jerk.  Commonly performed with 2 kettlebells, but one-arm variants performed for half-marathon and marathon.  Abbrevations include: LC (long cycle), TALC (two-arm long cycle), C+J (clean and jerk), OALC (one-arm long cycle).
-- Snatch - Snatch.  Performed with one kettlebell.  Double-arm variant referred to as Double Snatch.
-- Jerk - Jerk. Commonly performed with 2 kettlebells, but one-arm variants performed for half-marathon and marathon.  Abbrevations include: OAJ (one-arm jerk).
-- Half-snatch.  Commonly performed with 1 kettlebell for half-marathon and marathon events, but the two-arm variant is becoming more popular.  Abbrevations include: HS (one-arm half-snatch), DHS (two-arm half-snatch).
+- **Long Cycle** - Clean and Jerk.  Commonly performed with 2 kettlebells, but one-arm variants performed for half-marathon and marathon.  Abbrevations include: LC (long cycle), TALC (two-arm long cycle), C+J (clean and jerk), OALC (one-arm long cycle).
+- **Snatch** - Snatch.  Performed with one kettlebell.  Double-arm variant referred to as Double Snatch.
+- **Jerk** - Jerk. Commonly performed with 2 kettlebells, but one-arm variants performed for half-marathon and marathon.  Abbrevations include: OAJ (one-arm jerk).
+- **Half-snatch**.  Commonly performed with 1 kettlebell for half-marathon and marathon events, but the two-arm variant is becoming more popular.  Abbrevations include: HS (one-arm half-snatch), DHS (two-arm half-snatch).
 
 ### Links
  - [What is Kettlebell Sport? An Intro.](https://www.youtube.com/watch?v=te3efrre6sg)
