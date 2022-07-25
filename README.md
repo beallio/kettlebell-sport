@@ -19,6 +19,7 @@ This is not Hardstyle (Pavel-influended) Kettlbell lifting.  Kettlebell Sport is
  - [The Science and Bullshit of Lifting (III) – Kettlebells](https://theolderavocado.com/the-science-and-bullshit-of-lifting-part-iii-kettlebells/) / [archive.is](https://archive.is/F8Q0w) / [archive.org](https://web.archive.org/web/20210308074733/https://theolderavocado.com/the-science-and-bullshit-of-lifting-part-iii-kettlebells/)
  - [WTF is Kettlebell Sport? Twin Cities KBC](https://www.twincitieskettlebellclub.com/wtf-is-kettlebell-sport) / [archive.is](https://archive.is/hNnJ1) / [archive.org](https://web.archive.org/web/20210318184840/https://www.twincitieskettlebellclub.com/wtf-is-kettlebell-sport)
  - [Girevoy Sport Australia](https://taskettlebellers.tripod.com/girevoysportaustralia/index.html)
+ - [History of Kettlebell Sport - Denis Vasilev](https://www.denisvasilevkettlebell.com/kettlebell-sport-history) / [archive.is](https://archive.ph/6rocZ)
 
 # Equipment
 ## Competition Kettlebells
@@ -59,6 +60,9 @@ This is not Hardstyle (Pavel-influended) Kettlbell lifting.  Kettlebell Sport is
 - [Brittany van Schravendijk](https://www.youtube.com/playlist?list=PLhogybcqSAOQO3o0XJhYugcaNkQxOC8Pv)
 - [Texas Kettlebell Academy](https://vimeo.com/kettlebell)
 
+## Online Classes
+- [Long Cycle and Jerk Introduction Workout featuring Denis Vasilev](https://youtu.be/mtbX952S-BA)
+- [Jerk Introduction Workout featuring Denis Vasilev](https://youtu.be/0QVQ4Aqg2jo)
 
 ## Other (Tips, prep, etc)
 - [Kettlebell handle preparation](https://youtube.com/playlist?list=PLnGVnecBozBO9l7Zeq4kqc0tP6KQ8Nr1-) - Curated Youtube playlist of various athletes providing a walk-through tutorial of their kettlebell handle prepartion methods.
@@ -66,6 +70,7 @@ This is not Hardstyle (Pavel-influended) Kettlbell lifting.  Kettlebell Sport is
 
 
 # Programming
+## Free Programs
 - [Time Ladders Program, Thierry Sanchez](https://www.ohne-kettlebells.gehts-gar.net/030/8weeklc.pdf) / [archive.is](https://archive.is/kvVnd) / [archive.org](https://web.archive.org/web/20210306065544/https://www.ohne-kettlebells.gehts-gar.net/030/8weeklc.pdf)
 - [4 week Long Cycle Program, Chris Doenlen, Breaking Muscle](https://breakingmuscle.com/workouts/kettlebell-sport-training-with-national-champion-chris-doenlen) / [archive.is](https://archive.is/CVzy9) / [archive.org](https://web.archive.org/web/20201202071850/https://breakingmuscle.com/workouts/kettlebell-sport-training-with-national-champion-chris-doenlen)
     - [Chris Doenlen 4 Week Long Cycle training template](https://breakingmuscle.com/downloads/4weeklongcycletrainingtemplate.xlsx) / [archive.org](https://web.archive.org/web/20210318185303/https://assets.omidoo.com/sites/default/files/downloads/4weeklongcycletrainingtemplate.xlsx)
