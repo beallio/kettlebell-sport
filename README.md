@@ -86,3 +86,8 @@ This is not Hardstyle (Pavel-influended) Kettlbell lifting.  Kettlebell Sport is
 ## Paid programming
 - [Bogatyr Rising - Long Cycle training program](https://heroicsport.com/en/product/kettlebell-long-cycle-training-program/) - Thierry Sanchez
 - [Kettlebell Sport Longcycle and Jerk 8 Week Training Program](https://kettlebellrotterdam.nl/kettlebell-sport-longcycle-jerk-8-week-training-program/) - Barry Andre, Rotterdam Kettlebell Academy
+
+
+# Competitions
+- [IKO World League](https://www.kettlebellworld.org/calendar-2022) - Denis Vasilev's organization 
+- [Kettlebell Almanac Competition calendar](https://docs.google.com/spreadsheets/d/1hhJhU14v-C09N3rqztzGdZjLuqyuRMuZ/edit?usp=drivesdk&ouid=100727939236957164041&rtpof=true&sd=true) - Competition calendar maintained by Kim Fox
