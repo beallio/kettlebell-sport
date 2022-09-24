@@ -63,11 +63,16 @@ This is not Hardstyle (Pavel-influended) Kettlbell lifting.  Kettlebell Sport is
 ## Online Classes
 - [Long Cycle and Jerk Introduction Workout featuring Denis Vasilev](https://youtu.be/mtbX952S-BA)
 - [Jerk Introduction Workout featuring Denis Vasilev](https://youtu.be/0QVQ4Aqg2jo)
+- [Snatch Introduction Workout featuring Denis Vasilev](https://youtu.be/LKtHLGvd_g4)
+
+## Podcasts/Interviews
+- [YouTube playlist](https://youtube.com/playlist?list=PLnGVnecBozBPIsjgjD8FZiLmvkbF1efWQ)
+- [Spotify playlist](https://open.spotify.com/playlist/6g2M0HnKby27gL8RqT6ZPP)
 
 ## Other (Tips, prep, etc)
 - [Kettlebell handle preparation](https://youtube.com/playlist?list=PLnGVnecBozBO9l7Zeq4kqc0tP6KQ8Nr1-) - Curated Youtube playlist of various athletes providing a walk-through tutorial of their kettlebell handle prepartion methods.
-
-
+- [How-to's, tips, advice, cues, etc](https://youtube.com/playlist?list=PLnGVnecBozBNKDdDc65qdBIAN0sjtMeUM) - Curated YouTube playlist of advice, lifting cues, technique suggestions, and How-to's from various GS athletes, and coaches
+- [Warm-up/mobility exercises](https://youtube.com/playlist?list=PLnGVnecBozBOAL-1I83bhznoxFzpdXF9w)
 
 # Programming
 ## Free Programs
