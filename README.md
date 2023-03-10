@@ -1,18 +1,18 @@
 # [Kettlebell Sport](https://beallio.github.io/kettlebell-sport/)
-![Kettlbell Sport](https://www.niagarakettlebellsportopen.com/uploads/1/3/7/9/13797016/denis2_orig.jpg)
+![Kettlebell Sport](http://web.archive.org/web/20220703045602im_/https://www.niagarakettlebellsportopen.com/uploads/1/3/7/9/13797016/denis2_orig.jpg)
 
 # Introduction
 Kettlebell Sport information is difficult to find on the internet, or limited in depth,scope,etc. This is my attempt to collect what I find.
 
 ## What is Kettlebell Sport?
 
-This is not Hardstyle (Pavel-influended) Kettlbell lifting.  Kettlebell Sport is endurance kettlebell lifting where lifters have 10 minutes (or 5 minutes in sprint sets) to complete as many reps as possible without setting the bells down.  Efficiency and technique are important to maintain energy throughout set.  
+This is not Hardstyle (Pavel-influended) Kettlebell lifting.  Kettlebell Sport is endurance kettlebell lifting where lifters have 10 minutes (or 5 minutes in sprint sets) to complete as many reps as possible without setting the bells down.  Efficiency and technique are important to maintain energy throughout set.  
 
 ### Lifts
-- **Long Cycle** - Clean and Jerk.  Commonly performed with 2 kettlebells, but one-arm variants performed for half-marathon and marathon.  Abbrevations include: LC (long cycle), TALC (two-arm long cycle), C+J (clean and jerk), OALC (one-arm long cycle).
+- **Long Cycle** - Clean and Jerk.  Commonly performed with 2 kettlebells, but one-arm variants performed for half-marathon and marathon.  Abbreviations include: LC (long cycle), TALC (two-arm long cycle), C+J (clean and jerk), OALC (one-arm long cycle).
 - **Snatch** - Snatch.  Performed with one kettlebell.  Double-arm variant referred to as Double Snatch.
-- **Jerk** - Jerk. Commonly performed with 2 kettlebells, but one-arm variants performed for half-marathon and marathon.  Abbrevations include: OAJ (one-arm jerk).
-- **Half-snatch**.  Commonly performed with 1 kettlebell for half-marathon and marathon events, but the two-arm variant is becoming more popular.  Abbrevations include: HS (one-arm half-snatch), DHS (two-arm half-snatch).
+- **Jerk** - Jerk. Commonly performed with 2 kettlebells, but one-arm variants performed for half-marathon and marathon.  Abbreviations include: OAJ (one-arm jerk).
+- **Half-snatch**.  Commonly performed with 1 kettlebell for half-marathon and marathon events, but the two-arm variant is becoming more popular.  Abbreviations include: HS (one-arm half-snatch), DHS (two-arm half-snatch).
 
 ### Links
  - [What is Kettlebell Sport? An Intro.](https://www.youtube.com/watch?v=te3efrre6sg)
@@ -25,8 +25,8 @@ This is not Hardstyle (Pavel-influended) Kettlbell lifting.  Kettlebell Sport is
 ## Competition Kettlebells
  - [PRO Kettlebell](https://www.prokettlebell.com/online-store) - US - made in TX,USA
  - [Kettlebell USA Paradigm Pro](https://www.kettlebellsusa.com/) - US - 35mm and 33mm available
- - [Kettlebell Kings Competition](https://www.kettlebellsusa.com/) - US/[EU](https://kettlebellkings.eu/)/[AUS](https://kettlebellkings.com.au/) - 35mm and 33mm available
  - [Bells of Steel](https://www.bellsofsteel.us/all-products/conditioning/kettlebells/pro-grade-kettlebells/) - US/[CA](https://www.bellsofsteel.com/all-products/conditioning/kettlebells/pro-grade-kettlebells/)
+ - [Kettlebell Kings Competition](https://www.kettlebellsusa.com/) - US/[EU](https://kettlebellkings.eu/)/[AUS](https://kettlebellkings.com.au/) - 35mm and 33mm available
  - [Eleiko](https://www.eleiko.com/en/p/eleiko-competition-kettlebells/122) - US /EU
  - [Perform Better](https://www.performbetter.com/First-Place-Competition-Kettlebell_3) - US 
  - [Vulcan Strength](https://www.vulcanstrength.com/Vulcan-Absolute-Competition-Kettlebells-p/vckbxx.htm) - US 
@@ -47,8 +47,8 @@ This is not Hardstyle (Pavel-influended) Kettlbell lifting.  Kettlebell Sport is
 - [Bellevator](https://www.denisvasilevkettlebell.com/bellevator-lifting-belts)
 
 ### Miscellaneous
-- [TrueGrit Kettleweights](https://www.truegritkettlebell.com/shop/) - 1KG and 2KG magnetic plates you attach to base of Kettlebell.  Allows you to adjust weight in smaller increments than traditional 4KG jumps between bells.
-    - I'm not a big fan of attachment plates, because they shift during two-bell sets.  I prefer a set of adjustables to fill the 2kg gaps if you can't afford bells in 2kg increments, or lack the storage space.
+- [Magnetic Chip Weights](https://prokettlebell.com/collections/accessories/products/magnetic-chip-weights) - 1KG and 2KG magnetic plates you attach to base of Kettlebell.  Allows you to adjust weight in smaller increments than traditional 4KG jumps between bells.
+    - I'm not a big fan of attachment plates on traditional competition bells, because they shift during two-bell sets.  I prefer a set of adjustables to fill the 2kg gaps if you can't afford bells in 2kg increments, or lack the storage space.
 - ~~[Vikn Chalk](https://viknperformance.com/) - High-grade gymnastics/weightlifting chalk. Don't cheap out here. See **Kettlebell Prep**.~~ Vikn closed. I need to find a high-quality replacement.  Don't buy cheap chalk - your hands will thank you.
 - [Belt sander replacement belt](https://www.homedepot.com/p/DIABLO-3-in-x-18-in-80-Grit-Sanding-Belt-2-Pack-DCB318080S02G/202830831) - Used for sanding bell handles. See **Kettlebell Prep**. 
 - [DeWalt 3-Tier Steel Garage Storage Shelving Unit](https://www.homedepot.com/p/DEWALT-Yellow-3-Tier-Steel-Garage-Storage-Shelving-Unit-50-in-W-x-48-in-H-x-18-in-D-DXST4500/302361258) - Heavy duty multi-purpose shelf perfect for storing your kettlebells off the floor.  Holds 10 competition bells per shelf.  Less expensive, and more storage than kettlbell-specific shelves available on the market.
@@ -60,10 +60,8 @@ This is not Hardstyle (Pavel-influended) Kettlbell lifting.  Kettlebell Sport is
 - [Brittany van Schravendijk](https://www.youtube.com/playlist?list=PLhogybcqSAOQO3o0XJhYugcaNkQxOC8Pv)
 - [Texas Kettlebell Academy](https://vimeo.com/kettlebell)
 
-## Online Classes
-- [Long Cycle and Jerk Introduction Workout featuring Denis Vasilev](https://youtu.be/mtbX952S-BA)
-- [Jerk Introduction Workout featuring Denis Vasilev](https://youtu.be/0QVQ4Aqg2jo)
-- [Snatch Introduction Workout featuring Denis Vasilev](https://youtu.be/LKtHLGvd_g4)
+## Online Follow-along Classes
+- [YouTube playlist](https://youtube.com/playlist?list=PLnGVnecBozBOdrSqJGR-knrzeoWmR3nqU)
 
 ## Podcasts/Interviews
 - [YouTube playlist](https://youtube.com/playlist?list=PLnGVnecBozBPIsjgjD8FZiLmvkbF1efWQ)
@@ -78,6 +76,8 @@ This is not Hardstyle (Pavel-influended) Kettlbell lifting.  Kettlebell Sport is
 - [Kettlebell handle preparation](https://youtube.com/playlist?list=PLnGVnecBozBO9l7Zeq4kqc0tP6KQ8Nr1-) - Curated Youtube playlist of various athletes providing a walk-through tutorial of their kettlebell handle prepartion methods.
 - [How-to's, tips, advice, cues, etc](https://youtube.com/playlist?list=PLnGVnecBozBNKDdDc65qdBIAN0sjtMeUM) - Curated YouTube playlist of advice, lifting cues, technique suggestions, and How-to's from various GS athletes, and coaches
 - [Warm-up/mobility exercises](https://youtube.com/playlist?list=PLnGVnecBozBOAL-1I83bhznoxFzpdXF9w)
+- [Training sessions and workout from various individuals](https://youtube.com/playlist?list=PLnGVnecBozBN5iaUVcI0-E93qAwyXGyOe)
+- [Competition sets from various individuals](https://youtube.com/playlist?list=PLnGVnecBozBMU51vH2086PLj45Sf-yj5E)
 
 # Programming
 ## Free Programs
