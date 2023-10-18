@@ -20,13 +20,14 @@ This is not Hardstyle (Pavel-influended) Kettlebell lifting.  Kettlebell Sport i
  - [WTF is Kettlebell Sport? Twin Cities KBC](https://www.twincitieskettlebellclub.com/wtf-is-kettlebell-sport) / [archive.is](https://archive.is/hNnJ1) / [archive.org](https://web.archive.org/web/20210318184840/https://www.twincitieskettlebellclub.com/wtf-is-kettlebell-sport)
  - [Girevoy Sport Australia](https://taskettlebellers.tripod.com/girevoysportaustralia/index.html)
  - [History of Kettlebell Sport - Denis Vasilev](https://www.denisvasilevkettlebell.com/kettlebell-sport-history) / [archive.is](https://archive.ph/6rocZ)
+ - [Hystory of Kettlebell Sport - Ketacademy](https://www.ketacademy.com/kettlebell-sport) / [archive.is](https://archive.ph/Oo752)
 
 # Equipment
 ## Competition Kettlebells
- - [PRO Kettlebell](https://www.prokettlebell.com/online-store) - US - made in TX,USA
+ - [PRO Kettlebell](https://www.prokettlebell.com/online-store) - US - made in TX,USA - (use **TCKB** for 10% off)
  - [Kettlebell USA Paradigm Pro](https://www.kettlebellsusa.com/) - US - 35mm and 33mm available
  - [Bells of Steel](https://www.bellsofsteel.us/all-products/conditioning/kettlebells/pro-grade-kettlebells/) - US/[CA](https://www.bellsofsteel.com/all-products/conditioning/kettlebells/pro-grade-kettlebells/)
- - [Kettlebell Kings Competition](https://www.kettlebellsusa.com/) - US/[EU](https://kettlebellkings.eu/)/[AUS](https://kettlebellkings.com.au/) - 35mm and 33mm available
+ - [Kettlebell Kings Competition](https://www.kettlebellsusa.com/) - US/[EU](https://kettlebellkings.eu/)/[AUS](https://kettlebellkings.com.au/) - 35mm and 33mm available - (use **TCKB** for 10% off)
  - [Eleiko](https://www.eleiko.com/en/p/eleiko-competition-kettlebells/122) - US /EU
  - [Perform Better](https://www.performbetter.com/First-Place-Competition-Kettlebell_3) - US 
  - [Vulcan Strength](https://www.vulcanstrength.com/Vulcan-Absolute-Competition-Kettlebells-p/vckbxx.htm) - US 
@@ -49,7 +50,7 @@ This is not Hardstyle (Pavel-influended) Kettlebell lifting.  Kettlebell Sport i
 ### Miscellaneous
 - [Magnetic Chip Weights](https://prokettlebell.com/collections/accessories/products/magnetic-chip-weights) - 1KG and 2KG magnetic plates you attach to base of Kettlebell.  Allows you to adjust weight in smaller increments than traditional 4KG jumps between bells.
     - I'm not a big fan of attachment plates on traditional competition bells, because they shift during two-bell sets.  I prefer a set of adjustables to fill the 2kg gaps if you can't afford bells in 2kg increments, or lack the storage space.
-- ~~[Vikn Chalk](https://viknperformance.com/) - High-grade gymnastics/weightlifting chalk. Don't cheap out here. See **Kettlebell Prep**.~~ Vikn closed. I need to find a high-quality replacement.  Don't buy cheap chalk - your hands will thank you.
+- [Vikn Chalk](https://viknperformance.com/) - High-grade gymnastics/weightlifting chalk. Don't cheap out here. See **Kettlebell Prep**. (Note: As of Sept 1, 2023 they're back in business!) - (use **TCKB** for 10% off)
 - [Belt sander replacement belt](https://www.homedepot.com/p/DIABLO-3-in-x-18-in-80-Grit-Sanding-Belt-2-Pack-DCB318080S02G/202830831) - Used for sanding bell handles. See **Kettlebell Prep**. 
 - [DeWalt 3-Tier Steel Garage Storage Shelving Unit](https://www.homedepot.com/p/DEWALT-Yellow-3-Tier-Steel-Garage-Storage-Shelving-Unit-50-in-W-x-48-in-H-x-18-in-D-DXST4500/302361258) - Heavy duty multi-purpose shelf perfect for storing your kettlebells off the floor.  Holds 10 competition bells per shelf.  Less expensive, and more storage than kettlbell-specific shelves available on the market.
 
@@ -81,6 +82,7 @@ This is not Hardstyle (Pavel-influended) Kettlebell lifting.  Kettlebell Sport i
 
 # Programming
 ## Free Programs
+- [5 week Long Cycle/Jerk Program Template, Denis Vasilev](https://docs.google.com/spreadsheets/d/1PSOdJm8vAnbXW7cj2LSEfHdAhqt1u5olm9d5d6p36lo/edit?usp=sharing) 
 - [Time Ladders Program, Thierry Sanchez](https://www.ohne-kettlebells.gehts-gar.net/030/8weeklc.pdf) / [archive.is](https://archive.is/kvVnd) / [archive.org](https://web.archive.org/web/20210306065544/https://www.ohne-kettlebells.gehts-gar.net/030/8weeklc.pdf)
 - [4 week Long Cycle Program, Chris Doenlen, Breaking Muscle](https://breakingmuscle.com/workouts/kettlebell-sport-training-with-national-champion-chris-doenlen) / [archive.is](https://archive.is/CVzy9) / [archive.org](https://web.archive.org/web/20201202071850/https://breakingmuscle.com/workouts/kettlebell-sport-training-with-national-champion-chris-doenlen)
     - [Chris Doenlen 4 Week Long Cycle training template](https://breakingmuscle.com/downloads/4weeklongcycletrainingtemplate.xlsx) / [archive.org](https://web.archive.org/web/20210318185303/https://assets.omidoo.com/sites/default/files/downloads/4weeklongcycletrainingtemplate.xlsx)
@@ -89,10 +91,32 @@ This is not Hardstyle (Pavel-influended) Kettlebell lifting.  Kettlebell Sport i
 - [Solomon Roskin Beginner Long Cycle Program](https://docs.google.com/document/d/e/2PACX-1vRagWduxj2qakKd3qHSfRgZJa0eUgfodUFAtAIcf3SQH3mtXv__ZvmEOoPJ7TT_AZNOcMC792HOTQGK/pub) - [reddit post](https://www.reddit.com/user/solomonroskin/comments/jctvx6/free_kettlebell_sport_long_cycle_program/)
 
 ## Paid programming
-- [Bogatyr Rising - Long Cycle training program](https://heroicsport.com/en/product/kettlebell-long-cycle-training-program/) - Thierry Sanchez
+- [Bogatyr Rising - Long Cycle training program](https://heroicsport.com/en/product/kettlebell-long-cycle-training-program/) - Thierry Sanchez - No longer available for purchase.  Search google PDF.
 - [Kettlebell Sport Longcycle and Jerk 8 Week Training Program](https://kettlebellrotterdam.nl/kettlebell-sport-longcycle-jerk-8-week-training-program/) - Barry Andre, Rotterdam Kettlebell Academy
 
 
 # Competitions
-- [IKO World League](https://www.kettlebellworld.org/calendar-2022) - Denis Vasilev's organization 
-- [Kettlebell Almanac Competition calendar](https://docs.google.com/spreadsheets/d/1hhJhU14v-C09N3rqztzGdZjLuqyuRMuZ/edit?usp=drivesdk&ouid=100727939236957164041&rtpof=true&sd=true) - Competition calendar maintained by Kim Fox
+- [IKO World League](https://www.kettlebellworld.org/calendar-2023) - Denis Vasilev's organization 
+- [Kettlebell Almanac Competition calendar](https://docs.google.com/spreadsheets/d/13HghDmTtmUycBVENQQIoz1BuUo-ptIpkUqPWY3BWgWE/edit?usp=sharing) - Competition calendar maintained by Kim Fox
+- [IKMF Competition Calendars](https://www.ikmf-world.com/calendars/)
+- [WKSF Competition Calendar - 2023](https://wksf.site/wp-content/uploads/2023/01/WKSF-Calendar-2023.pdf)
+- [IUKL -2023](https://giri-iukl.com/assets/files/kalendar/IUKL_Calendar_plan-2023-5edition.doc)
+- [CKA Competitions](https://cka-sport.org/competitions)
+- [GSAA Competitions - 2023](https://www.girevoysportaustralia.org/2023-gsaa-calendar)
+  
+
+# Coaching
+- [Find a GS Coach](https://docs.google.com/spreadsheets/d/13xREqRr-dSYRpsS43n8CDc-RfrvnbNyqNm5c81ukxLk/edit?usp=sharing) - Spreadsheet of GS coaches and gyms maintained by Kim Fox
+
+
+# Ranking Tables
+- [IKO](https://www.kettlebellworld.org/ranking-tables)
+- [WKSF](https://wksf.site/rankings/)
+- [IKMF](https://www.ikmf-world.com/rules/ranks-and-rules/)
+- [IUKL](https://giri-iukl.com/docs/sport-ranks)
+- [WASKC](https://docs.google.com/spreadsheets/d/1Uv0gFaXtYRAubZ_egyQyjpW6cnDbmh57y_jcTE7umXc/)
+- [CKA](https://cka-sport.org/ranks)
+- [GSAA](https://www.girevoysportaustralia.org/about/resources/rules-ranks/ranking-systems)
+
+
+
