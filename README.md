@@ -24,7 +24,7 @@ This is not Hardstyle (Pavel-influended) Kettlebell lifting.  Kettlebell Sport i
 
 # Equipment
 ## Competition Kettlebells
- - [PRO Kettlebell](https://www.prokettlebell.com/online-store) - US - made in TX,USA - (use **TCKB** for 10% off)
+ - [PRO Kettlebell](https://www.prokettlebell.com/online-store) - US - made in TX,USA - (use **TCKB10** or **LIFT10** for 10% off)
  - [Kettlebell USA Paradigm Pro](https://www.kettlebellsusa.com/) - US - 35mm and 33mm available
  - [Bells of Steel](https://www.bellsofsteel.us/all-products/conditioning/kettlebells/pro-grade-kettlebells/) - US/[CA](https://www.bellsofsteel.com/all-products/conditioning/kettlebells/pro-grade-kettlebells/)
  - [Kettlebell Kings Competition](https://www.kettlebellsusa.com/) - US/[EU](https://kettlebellkings.eu/)/[AUS](https://kettlebellkings.com.au/) - 35mm and 33mm available - (use **TCKB** for 10% off)
