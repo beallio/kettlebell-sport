@@ -71,7 +71,7 @@ This is not Hardstyle (Pavel-influended) Kettlebell lifting.  Kettlebell Sport i
 - [Spotify playlist](https://open.spotify.com/playlist/6g2M0HnKby27gL8RqT6ZPP)
 
 ## GPP
-- [GPP & SPP by Denis Vasilev](https://img1.wsimg.com/blobby/go/17353469-20bc-4857-8985-c486040a225e/downloads/GPP%20SPP%20Class%20by%20Denis%20Vasilev_KB%20Hangouts%20202.pdf?ver=1656924667026) / [archive.is](https://archive.ph/TeSBG)
+- [GPP & SPP by Denis Vasilev](https://pdfhost.io/v/dr6.X68Vf_GPP_SPP_Class_by_Denis_Vasilev_KB_Hangouts_202) / [backup](https://jumpshare.com/s/qLUATXg7LuJ2sJ7WYGV2)
 - [12-Week GPP Programme for Kettlebell Sport Athletes, Laurence Clemente,  Breaking Muscle](https://breakingmuscle.com/a-12-week-gpp-programme-for-kettlebell-sport-athletes/) / [archive.is](https://archive.ph/MeUry)
 - [YouTube playlist](https://www.youtube.com/playlist?list=PLnGVnecBozBOLhqFk1Xt9LNeGGKMViLf6) - Curated playlist of GPP workouts and lifts
 
