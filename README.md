@@ -38,6 +38,7 @@ This is not Hardstyle (Pavel-influended) Kettlebell lifting.  Kettlebell Sport i
  - [Treadmill Factory](https://www.treadmillfactory.ca/kettlebell/competition-kettlebells) - CA
  - [Agatsu](https://agatsu-store.myshopify.com/collections/agatsu-sport-series-kettlebells) - CA
  - [Wolverson Fitness](https://wolverson-fitness.co.uk/collections/competition-kettlebells) - UK
+ - [PowerTeam.cc](https://powerteam.cc/) - AT
 
 ## Youth Competition Kettlebells
 - [USA Youth Kettlebell Sport](https://www.usaykbs.org/) - US - Youth sizes from 2KG to 12KG
