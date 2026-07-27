@@ -27,6 +27,16 @@ function filterResources() {
 
 search?.addEventListener('input', filterResources);
 
+window.addEventListener('keydown', (event) => {
+  const target = event.target;
+  const typing = target instanceof HTMLInputElement || target instanceof HTMLTextAreaElement || target?.isContentEditable;
+  if (event.key === '/' && !typing && search) {
+    event.preventDefault();
+    search.focus();
+    search.select();
+  }
+});
+
 if ('IntersectionObserver' in window) {
   const observer = new IntersectionObserver((entries) => {
     entries.forEach((entry) => {

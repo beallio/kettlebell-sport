@@ -200,7 +200,7 @@ function parseDirectory(blocks) {
     const groups = [];
     let current = { heading: null, level: null, list: [], paragraphs: [] };
     const flush = () => {
-      if (current.list.length || current.paragraphs.length) groups.push(current);
+      if (current.heading || current.list.length || current.paragraphs.length) groups.push(current);
       current = { heading: null, level: null, list: [], paragraphs: [] };
     };
 
@@ -225,7 +225,9 @@ function renderDirectory(sections) {
     const meta = SECTION_META[section.title] || { kicker: 'EXPLORE', description: `Resources collected under ${section.title}.` };
     const sectionId = slugify(section.title);
     const content = section.groups.map((group) => {
-      const heading = group.heading ? `<h${group.level === 3 ? '3' : '2'} id="${sectionId}-${slugify(group.heading)}">${escapeHtml(group.heading)}</h${group.level === 3 ? '3' : '2'}>` : '';
+      const headingTag = group.level === 3 ? 'h3' : 'h2';
+      const headingClass = group.level === 3 ? 'resource-subcategory' : 'resource-category';
+      const heading = group.heading ? `<${headingTag} class="${headingClass}" id="${sectionId}-${slugify(group.heading)}">${escapeHtml(group.heading)}</${headingTag}>` : '';
       const paragraphs = group.paragraphs.map((paragraph) => `<p>${renderInline(paragraph)}</p>`).join('');
       const list = renderResourceList(buildListTree(group.list));
       return `${heading}${paragraphs}${list}`;
