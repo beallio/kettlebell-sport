@@ -17,7 +17,7 @@
         }
         return weights[Math.floor(Math.random() * weights.length)];
       })();
-      document.documentElement.dataset.kbWeight = String(selected);
+      document.documentElement.dataset.kbSelected = String(selected);
     })();
   </script>
   <link rel="stylesheet" href="./styles.css">
@@ -26,7 +26,7 @@
 <div class="grain"></div>
 <header class="topbar"><div class="wrap nav">
   <a class="brand" href="#top" aria-label="Kettlebell Sport home">
-    <svg class="brand-bell" viewBox="0 0 120 140" aria-hidden="true"><path class="bell-handle" d="M38 55V42C38 21 47 10 60 10s22 11 22 32v13"/><path class="bell-body" d="M29 54c-10 8-15 22-13 39 3 23 20 37 44 37s41-14 44-37c2-17-3-31-13-39H29Z"/><text data-kb-weight x="60" y="101" text-anchor="middle">24</text></svg>
+    <svg class="brand-bell" viewBox="0 0 120 140" aria-hidden="true"><path class="bell-handle" d="M38 55V42C38 21 47 10 60 10s22 11 22 32v13"/><path class="bell-body" d="M29 54c-10 8-15 22-13 39 3 23 20 37 44 37s41-14 44-37c2-17-3-31-13-39H29Z"/><text data-kb-weight-label x="60" y="101" text-anchor="middle">24</text></svg>
     <span>Kettlebell Sport</span>
   </a>
   <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primaryNav"><span></span><span></span><span></span><span class="sr-only">Toggle navigation</span></button>
@@ -43,7 +43,7 @@
   </div>
   <aside class="hero-panel" aria-label="Kettlebell sport format">
     <div><div class="timer-label">Standard competition set</div><div class="timer">10:00</div></div>
-    <div class="bell-stage"><svg class="kb" data-kb-label viewBox="0 0 120 140" role="img" aria-label="24 kilogram competition kettlebell"><path class="bell-handle" d="M38 55V42C38 21 47 10 60 10s22 11 22 32v13"/><path class="bell-body" d="M29 54c-10 8-15 22-13 39 3 23 20 37 44 37s41-14 44-37c2-17-3-31-13-39H29Z"/><text data-kb-weight x="60" y="101" text-anchor="middle">24</text></svg></div>
+    <div class="bell-stage"><svg class="kb" data-kb-label viewBox="0 0 120 140" role="img" aria-label="24 kilogram competition kettlebell"><path class="bell-handle" d="M38 55V42C38 21 47 10 60 10s22 11 22 32v13"/><path class="bell-body" d="M29 54c-10 8-15 22-13 39 3 23 20 37 44 37s41-14 44-37c2-17-3-31-13-39H29Z"/><text data-kb-weight-label x="60" y="101" text-anchor="middle">24</text></svg></div>
     <div class="panel-note"><div><strong>AMRAP</strong>As many reps as possible</div><div><strong>No put-downs</strong>Efficiency is the event</div></div>
   </aside>
 </div></section>
@@ -129,5 +129,5 @@
 </div></section>
 </main>
 <footer class="footer"><div class="wrap"><div class="footer-grid"><div><h2>Keep the bells moving.</h2></div><div><p>Kettlebell sport information is scattered across clubs, coaches, federations, archived articles, and training resources. This guide brings the useful pieces together in one place.</p><a class="btn secondary footer-cta" href="https://github.com/beallio/kettlebell-sport" target="_blank" rel="noopener noreferrer">Contribute on GitHub ↗</a></div></div><div class="footer-bottom"><span>Kettlebell Sport Field Guide</span><span>beallio/kettlebell-sport</span></div></div></footer>
-<script src="./app.js" defer></script>
+<script src="./app.js?v=2" defer></script>
 </body></html>

@@ -1,5 +1,5 @@
-const selectedBellWeight = document.documentElement.dataset.kbWeight || '24';
-document.querySelectorAll('[data-kb-weight]').forEach((label) => {
+const selectedBellWeight = document.documentElement.dataset.kbSelected || '24';
+document.querySelectorAll('[data-kb-weight-label]').forEach((label) => {
   label.textContent = selectedBellWeight;
 });
 document.querySelectorAll('[data-kb-label]').forEach((bell) => {
