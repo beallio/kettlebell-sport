@@ -7,6 +7,10 @@ const README_PATH = path.join(ROOT, 'README.md');
 const TEMPLATE_PATH = path.join(ROOT, 'site', 'template.html');
 const DIST = path.join(ROOT, 'dist');
 
+// Featured competition bell. Supported display colors: 24 kg = green, 28 kg = orange.
+const FEATURED_WEIGHT = 24;
+const FEATURED_WEIGHT_CLASS = FEATURED_WEIGHT === 28 ? '28' : '24';
+
 const SECTION_META = {
   Equipment: { kicker: 'GEAR', description: 'Competition bells, youth equipment, belts, prep tools, chalk, shoes and storage.' },
   Education: { kicker: 'LEARN', description: 'Technique instruction, follow-along sessions, interviews, GPP and practical setup advice.' },
@@ -277,6 +281,8 @@ async function build() {
     LIFT_CARDS: renderLiftCards(intro.lifts),
     INTRO_LINKS: renderPlainList(intro.linkItems),
     DIRECTORY: renderDirectory(sections),
+    FEATURED_WEIGHT: String(FEATURED_WEIGHT),
+    FEATURED_WEIGHT_CLASS,
   };
 
   let output = template;

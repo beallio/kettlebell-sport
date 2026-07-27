@@ -43,3 +43,25 @@ if ('IntersectionObserver' in window) {
 }
 
 filterResources();
+
+
+const menuToggle = document.querySelector('.menu-toggle');
+const primaryNav = document.getElementById('primaryNav');
+
+function closeMenu() {
+  if (!menuToggle || !primaryNav) return;
+  menuToggle.setAttribute('aria-expanded', 'false');
+  primaryNav.classList.remove('is-open');
+  document.body.classList.remove('menu-open');
+}
+
+menuToggle?.addEventListener('click', () => {
+  const open = menuToggle.getAttribute('aria-expanded') === 'true';
+  menuToggle.setAttribute('aria-expanded', String(!open));
+  primaryNav?.classList.toggle('is-open', !open);
+  document.body.classList.toggle('menu-open', !open);
+});
+
+primaryNav?.querySelectorAll('a').forEach((link) => link.addEventListener('click', closeMenu));
+window.addEventListener('resize', () => { if (window.innerWidth > 820) closeMenu(); });
+window.addEventListener('keydown', (event) => { if (event.key === 'Escape') closeMenu(); });
