@@ -1,0 +1,12 @@
+{
+  "name": "kettlebell-sport-field-guide",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-site.mjs",
+    "check": "npm run build && node scripts/check-site.mjs"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}

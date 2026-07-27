@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Kettlebell Sport field guide: lifts, equipment, education, programming, competitions, coaching and ranking resources.">
+  <title>Kettlebell Sport — Field Guide</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<div class="grain"></div>
+<header class="topbar"><div class="wrap nav">
+  <a class="brand" href="#top"><span class="brand-bell" aria-hidden="true"></span>Kettlebell Sport</a>
+  <nav class="navlinks" aria-label="Primary">{{NAV_LINKS}}</nav>
+  <a class="github" href="https://github.com/beallio/kettlebell-sport" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+</div></header>
+<main id="top">
+<section class="hero"><div class="wrap hero-grid">
+  <div class="hero-copy">
+    <p class="eyebrow">Open-source field guide · Girevoy sport</p>
+    <h1>Kettlebell <span class="outline">Sport</span></h1>
+    <p class="hero-lede">{{INTRO_TEXT}}</p>
+    <div class="hero-actions"><a class="btn primary" href="#lifts">Meet the lifts ↓</a><a class="btn secondary" href="#directory">Browse {{LINK_COUNT}} links ↘</a></div>
+  </div>
+  <aside class="hero-panel" aria-label="Kettlebell sport format">
+    <div><div class="timer-label">Standard competition set</div><div class="timer">10:00</div></div>
+    <div class="bell-stage"><div class="kb" aria-hidden="true"></div></div>
+    <div class="panel-note"><div><strong>AMRAP</strong>As many reps as possible</div><div><strong>No put-downs</strong>Efficiency is the event</div></div>
+  </aside>
+</div></section>
+<div class="ticker" aria-hidden="true"><div class="ticker-track">{{TICKER}}</div></div>
+<section class="stats"><div class="wrap stats-grid"><div class="stat"><strong>10</strong><span>Minute standard set</span></div><div class="stat"><strong>5</strong><span>Minute sprint set</span></div><div class="stat"><strong>{{LIFT_COUNT}}</strong><span>Core lifts outlined</span></div><div class="stat"><strong>{{LINK_COUNT}}</strong><span>Curated source links</span></div></div></section>
+<section class="lifts section-pad" id="lifts"><div class="wrap">
+  <div class="section-intro reveal"><div class="section-tag">01 / The discipline</div><div><h2>Four ways to suffer efficiently.</h2><p>Unlike hardstyle lifting, kettlebell sport is an endurance event. The technical goal is repeatable, economical movement under a fixed time limit.</p></div></div>
+  <div class="lift-grid">{{LIFT_CARDS}}</div>
+</div></section>
+<section class="start-here section-pad"><div class="wrap">
+  <div class="section-intro reveal"><div class="section-tag">02 / Start here</div><div><h2>What is kettlebell sport?</h2><p>The README points to introductions, history, and background material from coaches, clubs, and archival sources. These are the best first stops before diving into gear or programming.</p></div></div>
+  <div class="intro-links reveal">{{INTRO_LINKS}}</div>
+</div></section>
+<section class="directory" id="directory"><div class="wrap">
+  <div class="directory-top reveal"><div><h2>The resource rack.</h2><p>Everything below is generated from <code>README.md</code>. Search across names, topics, organizations, products, and notes.</p></div><div class="searchbox"><label for="search">Search all resources</label><div class="searchrow"><input id="search" type="search" placeholder="Try “long cycle”, “chalk”, “ranking”…" autocomplete="off"><div class="search-count" id="searchCount">{{RESOURCE_COUNT}}</div></div></div></div>
+  {{DIRECTORY}}
+  <div id="noResults" hidden style="padding:42px 0;font-family:var(--serif);font-size:22px">No matching resources. Try a broader term.</div>
+</div></section>
+</main>
+<footer class="footer"><div class="wrap"><div class="footer-grid"><div><h2>Keep the bells moving.</h2></div><div><p>Kettlebell Sport information can be scattered and hard to find. This field guide keeps the original project’s purpose intact while making the README easier to discover and scan.</p><a class="btn secondary" style="color:var(--paper);border-color:var(--paper);box-shadow:5px 5px 0 var(--orange)" href="https://github.com/beallio/kettlebell-sport/blob/main/README.md" target="_blank" rel="noopener noreferrer">View source README ↗</a></div></div><div class="footer-bottom"><span>Generated from README.md · do not edit dist/ manually</span><span>beallio/kettlebell-sport</span></div></div></footer>
+<script src="./app.js" defer></script>
+</body></html>
