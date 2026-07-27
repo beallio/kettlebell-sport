@@ -63,5 +63,5 @@ menuToggle?.addEventListener('click', () => {
 });
 
 primaryNav?.querySelectorAll('a').forEach((link) => link.addEventListener('click', closeMenu));
-window.addEventListener('resize', () => { if (window.innerWidth > 820) closeMenu(); });
+window.addEventListener('resize', () => { if (window.innerWidth > 980) closeMenu(); });
 window.addEventListener('keydown', (event) => { if (event.key === 'Escape') closeMenu(); });
