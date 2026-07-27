@@ -23,8 +23,11 @@ a{color:inherit}
 .topbar{position:sticky;top:0;z-index:50;background:rgba(13,15,16,.94);backdrop-filter:blur(14px);border-bottom:1px solid rgba(255,255,255,.18);box-shadow:0 10px 30px rgba(0,0,0,.22)}
 .nav{min-height:70px;display:flex;align-items:center;gap:26px}
 .brand{display:flex;align-items:center;gap:11px;text-decoration:none;font-weight:900;letter-spacing:-.03em;white-space:nowrap;color:var(--ink)}
-.weight-24{--kb-fill:var(--lime);--kb-text:#101010;--kb-shadow:rgba(152,216,78,.18)}
-.weight-28{--kb-fill:var(--orange);--kb-text:#101010;--kb-shadow:rgba(255,122,47,.20)}
+html[data-kb-weight="16"],.weight-16{--kb-fill:#f2d13d;--kb-text:#101010;--kb-shadow:rgba(242,209,61,.20)}
+html[data-kb-weight="20"],.weight-20{--kb-fill:#8b5cc7;--kb-text:#fff;--kb-shadow:rgba(139,92,199,.22)}
+html[data-kb-weight="24"],.weight-24{--kb-fill:var(--lime);--kb-text:#101010;--kb-shadow:rgba(152,216,78,.18)}
+html[data-kb-weight="28"],.weight-28{--kb-fill:var(--orange);--kb-text:#101010;--kb-shadow:rgba(255,122,47,.20)}
+html[data-kb-weight="32"],.weight-32{--kb-fill:#d7353f;--kb-text:#fff;--kb-shadow:rgba(215,53,63,.22)}
 .brand-bell{width:31px;height:36px;flex:0 0 auto;overflow:visible}
 .brand-bell .bell-handle,.kb .bell-handle{fill:none;stroke:var(--kb-fill);stroke-width:14;stroke-linecap:round;stroke-linejoin:round}
 .brand-bell .bell-body,.kb .bell-body{fill:var(--kb-fill);stroke:rgba(255,255,255,.92);stroke-width:3;stroke-linejoin:round}

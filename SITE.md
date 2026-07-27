@@ -47,3 +47,15 @@ In the repository, set **Settings → Pages → Build and deployment → Source*
 - `scripts/build-site.mjs` — README parsing/rendering rules.
 
 Do not hand-edit `dist/`; it is generated.
+
+## Competition bell colors
+
+The header and hero use the same randomly selected competition-bell weight on each page load:
+
+- 16 kg — yellow
+- 20 kg — purple
+- 24 kg — green
+- 28 kg — orange
+- 32 kg — red
+
+The allowed weights live in `scripts/build-site.mjs` as `FEATURED_WEIGHTS`. To use a fixed bell instead, set that array to one value, such as `[32]`. For testing or sharing a specific bell while random mode is enabled, append `?bell=32` (or 16, 20, 24, 28) to the site URL.

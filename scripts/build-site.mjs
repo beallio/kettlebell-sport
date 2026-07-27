@@ -7,9 +7,10 @@ const README_PATH = path.join(ROOT, 'README.md');
 const TEMPLATE_PATH = path.join(ROOT, 'site', 'template.html');
 const DIST = path.join(ROOT, 'dist');
 
-// Featured competition bell. Supported display colors: 24 kg = green, 28 kg = orange.
-const FEATURED_WEIGHT = 24;
-const FEATURED_WEIGHT_CLASS = FEATURED_WEIGHT === 28 ? '28' : '24';
+// Competition bell display. One weight is selected at random for each page load.
+// To make the site fixed-weight later, reduce this array to a single value.
+const FEATURED_WEIGHTS = [16, 20, 24, 28, 32];
+const FEATURED_WEIGHT = 24; // No-JS fallback shown in the generated HTML.
 
 const SECTION_META = {
   Equipment: { kicker: 'GEAR', description: 'Competition bells, youth equipment, belts, prep tools, chalk, shoes and storage.' },
@@ -284,7 +285,7 @@ async function build() {
     INTRO_LINKS: renderPlainList(intro.linkItems),
     DIRECTORY: renderDirectory(sections),
     FEATURED_WEIGHT: String(FEATURED_WEIGHT),
-    FEATURED_WEIGHT_CLASS,
+    FEATURED_WEIGHTS: JSON.stringify(FEATURED_WEIGHTS),
   };
 
   let output = template;

@@ -1,3 +1,11 @@
+const selectedBellWeight = document.documentElement.dataset.kbWeight || '24';
+document.querySelectorAll('[data-kb-weight]').forEach((label) => {
+  label.textContent = selectedBellWeight;
+});
+document.querySelectorAll('[data-kb-label]').forEach((bell) => {
+  bell.setAttribute('aria-label', `${selectedBellWeight} kilogram competition kettlebell`);
+});
+
 const search = document.getElementById('search');
 const count = document.getElementById('searchCount');
 const noResults = document.getElementById('noResults');
