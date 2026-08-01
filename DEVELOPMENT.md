@@ -1,32 +1,31 @@
 ## Website
 
-This README is the **single source of truth** for the [Kettlebell Sport Field Guide](https://beallio.github.io/kettlebell-sport/). The website is generated from the Markdown in this file, so normal content updates only require editing `README.md`.
+`README.md` is the single source of truth for the generated Kettlebell Sport website. The site presents that Markdown as a minimal documentation page with a desktop sidebar, a mobile navigation drawer, and resource search.
 
-### Updating content
+### Normal content updates
 
-Keep using the existing Markdown structure:
+Edit only `README.md` and retain its existing structure:
 
-- `#` headings define the main resource sections shown on the website.
-- `##` and `###` headings define categories within those sections.
-- Markdown list items become searchable resource entries.
-- Nested list items become notes attached to the parent resource.
-- `Introduction → What is Kettlebell Sport? → Lifts` generates the lift cards.
-- `Introduction → What is Kettlebell Sport? → Links` generates the “Start here” resources.
+- `#` headings define main sections and sidebar navigation.
+- `##` and `###` headings define categories.
+- Top-level list items define resource rows.
+- Nested list items define notes attached to a resource.
+- Markdown links, bold text, emphasis, and inline code are preserved.
 
-For a typical update, add or edit the relevant Markdown entry and push the change to `main`. GitHub Actions rebuilds and republishes the site automatically.
+There is no separately maintained promotional or landing-page content.
 
 ### Local preview
 
-Requires [Node.js](https://nodejs.org/) 20 or newer. The site generator has no npm dependencies.
+Requires Node.js 24 or newer. The generator has no npm dependencies.
 
-```bash
+```sh
 npm run build
 ```
 
-Then open `dist/index.html` in a browser. To build and run the validation checks:
+Open `dist/index.html` in a browser. Run the complete build and structural validation with:
 
-```bash
+```sh
 npm run check
 ```
 
-The generated `dist/` directory should not be edited by hand. Site layout, styling, and browser behavior live in `site/`; README parsing and rendering live in `scripts/`. More implementation details are in [`SITE.md`](SITE.md).
+Do not edit `dist/` by hand. Layout and styling live in `site/`; Markdown parsing and validation live in `scripts/`. See `SITE.md` for the complete mapping and implementation notes.

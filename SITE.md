@@ -1,61 +1,59 @@
 # Website build
 
-`README.md` is the single source of truth for site content.
+`README.md` remains the single source of truth for site content. The website is a minimal documentation layout with a generated desktop sidebar and a mobile navigation drawer.
 
 ## Local development
 
 Requirements: Node.js 24 or newer. There are no npm dependencies.
-The project pins Node 24 in `.node-version`, and the Pages workflow uses that same version for the build.
 
-```bash
+```sh
 npm run build
 ```
 
-Open `dist/index.html` in a browser. To build and run the lightweight validation checks:
+Open `dist/index.html` in a browser. To build and run validation checks:
 
-```bash
+```sh
 npm run check
 ```
 
-## What updates automatically
+## README mapping
 
-The generator understands the current README structure:
+The generator renders the existing README structure directly:
 
-- `Introduction → What is Kettlebell Sport? → Lifts` becomes the lift cards.
-- `Introduction → What is Kettlebell Sport? → Links` becomes the “Start here” list.
-- Every top-level `#` section after `Introduction` becomes a resource-rack section.
-- `##` and `###` headings become category headings.
-- Markdown list items become searchable resource rows.
-- Nested list items become notes under the parent resource.
-- Markdown links and bold/emphasis are preserved.
-- Link and resource counts are calculated during the build.
+- The first `#` heading becomes the site title.
+- Every following `#` heading becomes a document section and sidebar link.
+- `##` and `###` headings become nested document headings.
+- Paragraphs are rendered in source order.
+- Top-level list items become resource rows.
+- Nested list items become notes under their parent row.
+- The first link in a row receives primary-link styling; additional links receive quieter utility-link styling.
+- Top-level list items outside `Introduction` become searchable resources.
+- Resource and section counts are calculated during the build.
 
-Normal content changes therefore require editing only `README.md`.
+The standalone image immediately below the README title is intentionally omitted from the minimal website. This is controlled by `RENDER_LEAD_IMAGE` in `scripts/build-site.mjs`; set it to `true` to render the image without changing `README.md`.
+
+No section descriptions, lift cards, promotional headings, or other editorial content are maintained separately from the README.
+
+## Files
+
+- `README.md` — all site content.
+- `site/template.html` — semantic page shell and sidebar.
+- `site/styles.css` — light documentation styling and responsive layout.
+- `site/app.js` — resource filtering, mobile navigation, keyboard search, and active-section state.
+- `scripts/build-site.mjs` — Markdown parsing and HTML generation.
+- `scripts/check-site.mjs` — generated-output validation against the README structure, text, links, resource count, and required interface behavior.
+- `dist/` — generated output; do not edit by hand.
+
+## Search behavior
+
+The search field indexes the 59 current top-level resource entries after `Introduction`. Search data is generated from each row, its nested notes, and its surrounding section/category headings. `/` focuses the search field. Pressing Escape clears an active search or closes the mobile sidebar.
+
+The count is not hardcoded. If the README is later edited, the generated count and validation expectations update from the Markdown. The current validator also confirms that all 95 non-image README text lines and all 88 README content links are represented in the generated HTML.
+
+## Responsive behavior
+
+The mobile drawer is removed from the focus order while closed and marks the obscured document inert while open. The `/` shortcut opens the drawer and focuses search on mobile.
 
 ## GitHub Pages
 
-The workflow at `.github/workflows/pages.yml` runs when the README, site template/assets, generator, or workflow changes. It builds `dist/`, validates it, uploads the Pages artifact, and deploys it.
-
-In the repository, set **Settings → Pages → Build and deployment → Source** to **GitHub Actions** once. After that, pushes to `main` deploy automatically.
-
-## Files you edit
-
-- `README.md` — content.
-- `site/template.html` — page shell/layout.
-- `site/styles.css` — visual design.
-- `site/app.js` — browser behavior such as search.
-- `scripts/build-site.mjs` — README parsing/rendering rules.
-
-Do not hand-edit `dist/`; it is generated.
-
-## Competition bell colors
-
-The header and hero use the same randomly selected competition-bell weight on each page load:
-
-- 16 kg — yellow
-- 20 kg — purple
-- 24 kg — green
-- 28 kg — orange
-- 32 kg — red
-
-The allowed weights live in `scripts/build-site.mjs` as `FEATURED_WEIGHTS`. To use a fixed bell instead, set that array to one value, such as `[32]`. For testing or sharing a specific bell while random mode is enabled, append `?bell=32` (or 16, 20, 24, 28) to the site URL.
+The existing workflow at `.github/workflows/pages.yml` requires no changes. It already runs when the README, site assets, generator, package metadata, Node version, or workflow changes. It executes `npm run check`, uploads `dist/`, and deploys it to GitHub Pages.
