@@ -5,11 +5,24 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const README_PATH = path.join(ROOT, 'README.md');
 const TEMPLATE_PATH = path.join(ROOT, 'site', 'template.html');
+const CONFIG_PATH = path.join(ROOT, 'site', 'config.json');
 const DIST_PATH = path.join(ROOT, 'dist');
 
-// The README's lead image is intentionally omitted from the minimal website.
-// All textual headings, paragraphs, lists, links, emphasis, and nested notes are rendered.
-const RENDER_LEAD_IMAGE = false;
+function parseSiteConfig(source) {
+  let config;
+
+  try {
+    config = JSON.parse(source);
+  } catch (error) {
+    throw new Error(`Build failed: site/config.json is invalid JSON: ${error.message}`);
+  }
+
+  if (typeof config.renderLeadImage !== 'boolean') {
+    throw new Error('Build failed: site/config.json must define renderLeadImage as true or false.');
+  }
+
+  return config;
+}
 
 function escapeHtml(value = '') {
   return String(value)
@@ -298,8 +311,8 @@ function getMetaDescription(sections) {
   return description.length > 160 ? `${description.slice(0, 157).trimEnd()}…` : description;
 }
 
-function renderLeadMedia(leadBlocks) {
-  if (!RENDER_LEAD_IMAGE) return '';
+function renderLeadMedia(leadBlocks, renderLeadImage) {
+  if (!renderLeadImage) return '';
   return leadBlocks
     .filter((block) => block.type === 'image')
     .map((block) => renderImage(block, 'lead-image'))
@@ -307,11 +320,13 @@ function renderLeadMedia(leadBlocks) {
 }
 
 async function build() {
-  const [source, template] = await Promise.all([
+  const [source, template, configSource] = await Promise.all([
     readFile(README_PATH, 'utf8'),
     readFile(TEMPLATE_PATH, 'utf8'),
+    readFile(CONFIG_PATH, 'utf8'),
   ]);
 
+  const config = parseSiteConfig(configSource);
   const blocks = parseMarkdown(source);
   const { title, leadBlocks, sections } = splitDocument(blocks);
   const resourceSections = sections.filter((section) => section.title.toLowerCase() !== 'introduction');
@@ -329,7 +344,7 @@ async function build() {
     META_DESCRIPTION: escapeHtml(getMetaDescription(sections)),
     NAV_LINKS: renderNavigation(sections),
     RESOURCE_COUNT: String(resourceCount),
-    LEAD_MEDIA: renderLeadMedia(leadBlocks),
+    LEAD_MEDIA: renderLeadMedia(leadBlocks, config.renderLeadImage),
     DOCUMENT: sections.map(renderSection).join('\n'),
   };
 

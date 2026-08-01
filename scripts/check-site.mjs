@@ -5,11 +5,12 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const DIST = path.join(ROOT, 'dist');
 
-const [source, html, css, app] = await Promise.all([
+const [source, html, css, app, configSource] = await Promise.all([
   readFile(path.join(ROOT, 'README.md'), 'utf8'),
   readFile(path.join(DIST, 'index.html'), 'utf8'),
   readFile(path.join(DIST, 'styles.css'), 'utf8'),
   readFile(path.join(DIST, 'app.js'), 'utf8'),
+  readFile(path.join(ROOT, 'site', 'config.json'), 'utf8'),
   access(path.join(DIST, '.nojekyll')),
 ]);
 
@@ -31,6 +32,28 @@ function escapeHtml(value = '') {
     .replaceAll('>', '&gt;')
     .replaceAll('"', '&quot;')
     .replaceAll("'", '&#39;');
+}
+
+function getReadmeLeadImages(markdown) {
+  const images = [];
+  let titleSeen = false;
+
+  for (const line of markdown.replace(/\r\n/g, '\n').split('\n')) {
+    const heading = line.match(/^#\s+(.+?)\s*$/);
+    if (heading) {
+      if (!titleSeen) {
+        titleSeen = true;
+        continue;
+      }
+      break;
+    }
+
+    if (!titleSeen) continue;
+    const image = line.trim().match(/^!\[([^\]]*)\]\((https?:\/\/[^)]+)\)\s*$/);
+    if (image) images.push({ alt: image[1], url: image[2] });
+  }
+
+  return images;
 }
 
 function getReadmeContentLinks(markdown) {
@@ -173,6 +196,17 @@ function assert(condition, message) {
   if (!condition) throw new Error(message);
 }
 
+let siteConfig;
+try {
+  siteConfig = JSON.parse(configSource);
+} catch (error) {
+  throw new Error(`site/config.json is invalid JSON: ${error.message}`);
+}
+assert(
+  typeof siteConfig.renderLeadImage === 'boolean',
+  'site/config.json must define renderLeadImage as true or false.',
+);
+
 assert(!html.includes('{{'), 'Generated site contains unresolved template placeholders.');
 assert((html.match(/<h1(?:\s|>)/g) || []).length === 1, 'Generated site must contain exactly one h1.');
 assert(html.includes('class="sidebar"'), 'Generated site is missing the desktop sidebar.');
@@ -180,7 +214,9 @@ assert(html.includes('class="mobile-header"'), 'Generated site is missing the mo
 assert(html.includes('class="sidebar-scrim"'), 'Generated site is missing the mobile sidebar scrim.');
 assert(html.includes('id="search"'), 'Generated site is missing the resource search input.');
 assert(html.includes('id="noResults"'), 'Generated site is missing the no-results state.');
-assert(html.includes('Generated from README.md'), 'Generated site is missing README provenance.');
+assert(!html.includes('class="document-meta"'), 'Generated site still contains the removed document metadata.');
+assert(!html.includes('Generated from README.md'), 'Generated site still contains the removed README generation label.');
+assert(!html.includes('Content source:'), 'Generated site still contains the removed footer source label.');
 
 const sections = getReadmeStructure(source);
 assert(sections.length > 0, 'README structure check found no sections.');
@@ -192,6 +228,22 @@ for (const section of sections) {
   for (const heading of section.headings) {
     assert(html.includes(`id="${heading.id}"`), `Generated site is missing heading #${heading.id}.`);
   }
+}
+
+const leadImages = getReadmeLeadImages(source);
+const renderedLeadImages = (html.match(/class="lead-image"/g) || []).length;
+if (siteConfig.renderLeadImage) {
+  assert(leadImages.length > 0, 'renderLeadImage is enabled, but README.md has no lead image.');
+  assert(
+    renderedLeadImages === leadImages.length,
+    `Lead image mismatch: README has ${leadImages.length}, generated HTML has ${renderedLeadImages}.`,
+  );
+  for (const image of leadImages) {
+    const secureUrl = image.url.startsWith('http://') ? `https://${image.url.slice(7)}` : image.url;
+    assert(html.includes(`src="${escapeHtml(secureUrl)}"`), `Generated site is missing README lead image: ${image.alt || image.url}.`);
+  }
+} else {
+  assert(renderedLeadImages === 0, 'Lead image rendered even though renderLeadImage is false.');
 }
 
 const readmeLinks = getReadmeContentLinks(source);
@@ -236,6 +288,8 @@ for (const requiredAppToken of [
   'data-section-link',
   "toggleAttribute('inert'",
   'Close navigation',
+  'atPageEnd',
+  'visibleSections.at(-1)',
 ]) {
   assert(app.includes(requiredAppToken), `Browser script is missing expected behavior: ${requiredAppToken}`);
 }

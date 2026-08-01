@@ -16,6 +16,18 @@ Open `dist/index.html` in a browser. To build and run validation checks:
 npm run check
 ```
 
+## Site options
+
+Display-only options live in `site/config.json`; README content does not need to change.
+
+```json
+{
+  "renderLeadImage": true
+}
+```
+
+The standalone image immediately below the README title is rendered by default. Set `renderLeadImage` to `false` to hide it. Commit the config change and the existing `site/**` workflow trigger will rebuild and deploy the site.
+
 ## README mapping
 
 The generator renders the existing README structure directly:
@@ -30,13 +42,14 @@ The generator renders the existing README structure directly:
 - Top-level list items outside `Introduction` become searchable resources.
 - Resource and section counts are calculated during the build.
 
-The standalone image immediately below the README title is intentionally omitted from the minimal website. This is controlled by `RENDER_LEAD_IMAGE` in `scripts/build-site.mjs`; set it to `true` to render the image without changing `README.md`.
+The standalone image immediately below the README title is rendered by default and can be disabled through `site/config.json`.
 
 No section descriptions, lift cards, promotional headings, or other editorial content are maintained separately from the README.
 
 ## Files
 
 - `README.md` — all site content.
+- `site/config.json` — display-only build options, including the README lead image toggle.
 - `site/template.html` — semantic page shell and sidebar.
 - `site/styles.css` — light documentation styling and responsive layout.
 - `site/app.js` — resource filtering, mobile navigation, keyboard search, and active-section state.

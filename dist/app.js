@@ -135,6 +135,7 @@ sidebarScrim?.addEventListener('click', () => closeSidebar(true));
 
 sectionLinks.forEach((link) => {
   link.addEventListener('click', () => {
+    setActiveSection(link.dataset.sectionLink || '');
     if (mobileBreakpoint.matches) closeSidebar(true);
   });
 });
@@ -160,6 +161,15 @@ function updateActiveSection() {
 
   if (!visibleSections.length) {
     setActiveSection('');
+    return;
+  }
+
+  const scrollingElement = document.scrollingElement || document.documentElement;
+  const atPageEnd = scrollingElement.scrollTop > 0
+    && scrollingElement.scrollTop + window.innerHeight >= scrollingElement.scrollHeight - 2;
+
+  if (atPageEnd) {
+    setActiveSection(visibleSections.at(-1).id);
     return;
   }
 

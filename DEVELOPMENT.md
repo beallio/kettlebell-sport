@@ -12,7 +12,7 @@ Edit only `README.md` and retain its existing structure:
 - Nested list items define notes attached to a resource.
 - Markdown links, bold text, emphasis, and inline code are preserved.
 
-There is no separately maintained promotional or landing-page content.
+There is no separately maintained promotional or landing-page content. Display-only build options live in `site/config.json`. The README's lead image is enabled by default; set `renderLeadImage` to `false` there to hide it.
 
 ### Local preview
 
