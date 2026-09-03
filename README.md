@@ -45,8 +45,8 @@ This is not Hardstyle (Pavel-influended) Kettlebell lifting.  Kettlebell Sport i
 ## Accessories
 
 ### Belts
-- [Lab of Champions](https://www.32kg.pro/online-store/KETTLEBELL-SPORT-PRO-BELTS-c11357019)
-- [Bellevator](https://www.denisvasilevkettlebell.com/bellevator-lifting-belts)
+- [Lab of Champions](https://www.instagram.com/labofchampions/)
+- [Bellevator](https://www.denisvasilevkettlebell.com/product-page/kettlebell-lifting-belt-bellevator)
 
 ### Miscellaneous
 - [Magnetic Chip Weights](https://prokettlebell.com/collections/accessories/products/magnetic-chip-weights) - 1KG and 2KG magnetic plates you attach to base of Kettlebell.  Allows you to adjust weight in smaller increments than traditional 4KG jumps between bells.
@@ -96,8 +96,9 @@ This is not Hardstyle (Pavel-influended) Kettlebell lifting.  Kettlebell Sport i
 
 
 # Competitions
-- [IKO World League](https://www.kettlebellworld.org/calendar-2023) - Denis Vasilev's organization 
+- [IKO World League](https://www.kettlebellworld.org/) - Denis Vasilev's organization 
 - [Kettlebell Almanac Competition calendar](https://docs.google.com/spreadsheets/d/13HghDmTtmUycBVENQQIoz1BuUo-ptIpkUqPWY3BWgWE/edit?usp=sharing) - Competition calendar maintained by Kim Fox
+- [AKLU Sanctioned Events](https://www.aklu.net/sanctioned-events)
 - [IKMF Competition Calendars](https://www.ikmf-world.com/calendars/)
 - [WKSF Competition Calendar](https://wksf.site/agenda/)
 - [IUKL](https://giri-iukl.com/docs/competition1)
@@ -111,6 +112,7 @@ This is not Hardstyle (Pavel-influended) Kettlebell lifting.  Kettlebell Sport i
 
 # Ranking Tables
 - [IKO](https://www.kettlebellworld.org/ranking-tables)
+- [AKLU](https://www.aklu.net/aklu-rankingtable)
 - [WKSF](https://wksf.site/rankings/)
 - [IKMF](https://www.ikmf-world.com/rules/ranks-and-rules/)
 - [IUKL](https://giri-iukl.com/docs/sport-ranks)
